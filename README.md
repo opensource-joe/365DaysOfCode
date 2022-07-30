@@ -9,7 +9,7 @@ Here is more background of my time engineering Code.gov for the U.S. federal Gov
 Now I shift my focus to the following activities:
 
 <details>
-<summary>Accessibility</summary>
+<summary>Learning focus - TBD (e.g., Accessibility, Python, DevOps)</summary>
 
 | Course | Description | Progress | Repo |
 | ----- | ----- | ----- | ----- |
